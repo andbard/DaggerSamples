@@ -1,0 +1,9 @@
+syntax: glob
+.idea
+target/
+*.iml
+.classpath
+.project
+.settings/
+local.properties
+test.properties
